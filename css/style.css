@@ -16,6 +16,7 @@ html, body{
   background-position: center;
   background-size: cover;
   font-size: 12pt;
+  overflow: hidden;
   font-family: Poppins, Segoe UI, Tahoma, sans-serif;
 }
 nav{
